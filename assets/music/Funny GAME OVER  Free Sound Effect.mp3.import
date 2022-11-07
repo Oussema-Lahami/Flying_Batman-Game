@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Funny GAME OVER  Free Sound Effect.mp3-4e0b6a09e4aff2f82d575e4881a6cd40.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Funny GAME OVER  Free Sound Effect.mp3"
+dest_files=[ "res://.import/Funny GAME OVER  Free Sound Effect.mp3-4e0b6a09e4aff2f82d575e4881a6cd40.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
