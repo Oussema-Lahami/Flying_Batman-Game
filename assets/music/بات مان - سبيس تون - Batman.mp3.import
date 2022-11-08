@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/بات مان - سبيس تون - Batman.mp3-bb4eeb5dcccbabc934052ed9e944f8b0.mp3str"
+
+[deps]
+
+source_file="res://assets/music/بات مان - سبيس تون - Batman.mp3"
+dest_files=[ "res://.import/بات مان - سبيس تون - Batman.mp3-bb4eeb5dcccbabc934052ed9e944f8b0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

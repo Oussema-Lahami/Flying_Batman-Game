@@ -5,7 +5,7 @@
 [ext_resource path="res://devilFruit.tscn" type="PackedScene" id=3]
 [ext_resource path="res://player.tscn" type="PackedScene" id=4]
 [ext_resource path="res://HUD.tscn" type="PackedScene" id=5]
-[ext_resource path="res://assets/music/The Batman Theme - Synthwave Remix.mp3" type="AudioStream" id=6]
+[ext_resource path="res://assets/music/بات مان - سبيس تون - Batman.mp3" type="AudioStream" id=6]
 [ext_resource path="res://assets/music/Funny GAME OVER  Free Sound Effect.mp3" type="AudioStream" id=7]
 [ext_resource path="res://background.tscn" type="PackedScene" id=8]
 [ext_resource path="res://pause.gd" type="Script" id=9]
@@ -34,6 +34,7 @@ curve = SubResource( 1 )
 [node name="spawnLocation" type="PathFollow2D" parent="enemiePath"]
 
 [node name="enemiesTimer" type="Timer" parent="."]
+wait_time = 0.8
 
 [node name="player" parent="." instance=ExtResource( 4 )]
 position = Vector2( 512, 160 )

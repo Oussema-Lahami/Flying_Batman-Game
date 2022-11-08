@@ -68,12 +68,12 @@ func _on_ScoreTimer_timeout():
 
 
 func _on_spawn1_timeout():
-	$enemiesTimer.wait_time = 0.7
-
-
-func _on_spaqn2_timeout():
 	$enemiesTimer.wait_time = 0.6
 
 
-func _on_spawn3_timeout():
+func _on_spaqn2_timeout():
 	$enemiesTimer.wait_time = 0.5
+
+
+func _on_spawn3_timeout():
+	$enemiesTimer.wait_time = 0.4
